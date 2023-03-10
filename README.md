@@ -13,11 +13,13 @@ Bootstrap, HTML, CSS...
 
 
 ## Screenshots
-
+    Hero Section
 ![App Screenshot](https://github.com/Decodeme007/BootstrapFast.github.io/blob/main/images/ss1.png)
-
+    
+    Bar Section
 ![App Screenshot](https://github.com/Decodeme007/BootstrapFast.github.io/blob/main/images/ss2.png)
 
+    Contact and Address
 ![App Screenshot](https://github.com/Decodeme007/BootstrapFast.github.io/blob/main/images/ss3.png)
 
     Responsive
