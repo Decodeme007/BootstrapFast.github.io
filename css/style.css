@@ -1,0 +1,7 @@
+.nav-item .nav-link{
+    color: rgb(236, 236, 245) !important;
+    font-weight: 500 !important;
+}
+html{
+    scroll-behavior: smooth;
+}
